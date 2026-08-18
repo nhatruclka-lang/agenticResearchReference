@@ -1,0 +1,7 @@
+{
+  "name": "ScholarSync - Automated Systematic Literature Review",
+  "description": "Hệ thống Tự động hóa Tổng quan Nghiên cứu Khoa học Đa ngành (Automated Systematic Literature Review Tool for All Academic Fields) với 4 module: Framework & Query Generator, Academic Ingestion Engine, AI Screening Engine, và Synthesis & Docx Report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
